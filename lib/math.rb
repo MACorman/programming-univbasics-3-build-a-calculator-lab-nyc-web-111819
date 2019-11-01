@@ -24,5 +24,6 @@ return quotient
 end
 
 def square_root(num)
-
+sq_root = num**0.5
+return sq_root
 end
