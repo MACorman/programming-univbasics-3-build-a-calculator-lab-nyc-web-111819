@@ -19,8 +19,8 @@ return product
 end
 
 def modulo(num1, num2)
-quotient = num1 / num2
-return quot
+quotient = num1 % num2
+return quotient
 end
 
 def square_root(num)
